@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Digital_GreenWall_Stage_2" src="https://github.com/user-attachments/assets/cd4dc3e5-6e85-481f-baf4-3c7622f3fed9" />
+
 # IDAI203-2505445--Snigdha_Reddy_Guduru
 # 🌱 DIGITAL GREENWALL
 ### From Empathy to Execution: Designing a User-Centred AI Digital Solution
@@ -50,6 +50,11 @@ The final stage focused on identifying ways to make Digital GreenWall more usefu
 Two additional features were developed: the **Green Rewards Marketplace**, connecting eco-points with practical incentives, and **Green Around You**, helping users discover environmental activities within their communities.
 
 These additions strengthened the connection between digital engagement and real-world environmental participation.
+
+<img width="1440" height="900" alt="Screenshot 2026-11-26 at 5 04 17 PM" src="https://github.com/user-attachments/assets/cdd94902-b448-4f4e-b632-1afbf866cf53" />
+<img width="1440" height="900" alt="Screenshot 2026-11-26 at 5 02 31 PM" src="https://github.com/user-attachments/assets/908938cc-dd36-426f-93f3-70cb6e8027a7" />
+<img width="1440" height="900" alt="Screenshot 2026-11-26 at 5 05 19 PM" src="https://github.com/user-attachments/assets/b08bcb93-dc1a-4bc5-be43-1fc40fff8058" />
+
 
 ---
 
