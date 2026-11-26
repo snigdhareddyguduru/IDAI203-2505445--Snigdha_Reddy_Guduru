@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Digital_GreenWall_Stage_2" src="https://github.com/user-attachments/assets/cd4dc3e5-6e85-481f-baf4-3c7622f3fed9" />
 # IDAI203-2505445--Snigdha_Reddy_Guduru
 # 🌱 DIGITAL GREENWALL
 ### From Empathy to Execution: Designing a User-Centred AI Digital Solution
@@ -23,6 +24,8 @@ I began by investigating the relationship between young people's digital lifesty
 The findings helped me identify a gap between environmental awareness and consistent participation. This became the foundation of the Digital GreenWall concept.
 
 ### Stage 2 – Ideate and Sketch
+
+<img width="1536" height="1024" alt="Digital_GreenWall_Stage_2" src="https://github.com/user-attachments/assets/39b05893-6420-4d66-9c55-9b082ab1d6dc" />
 
 Using the SCAMPER technique and a How Might We question, I explored ways to make environmental activities more engaging, rewarding and social.
 
